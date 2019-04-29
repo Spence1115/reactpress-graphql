@@ -1,5 +1,5 @@
 module.exports = {
-  wordpressGraphqlEndpoint: "https://dev-reactpress.pantheonsite.io/graphql",
+  wordpressGraphqlEndpoint: "https://https://garavatito-1be171.easywp.com/graphql",
   theme: "starter",
   siteInformations: {
     name: "REACTPRESS",
